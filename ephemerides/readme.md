@@ -1,10 +1,4 @@
 # EPHEMERIDES
-The controller allows to manage two motors with their corresponding position sensors.
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/controlledishsetup.jpg" width="640">
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/controllerdishengine.jpg" width="640">
-
 An important part of the system is to obtain the most accurate positioning data possible.
 
 As a philosophy the data will be served by a TCP server on port 8888.
