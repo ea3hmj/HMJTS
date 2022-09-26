@@ -1,11 +1,19 @@
 # DRIVERDISH.APP
 This is the main program that is responsible for requesting data from the ephemeris server and communicating with ControllerDish.
 
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd1.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd2.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd3.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd4.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd5.jpg" width="640">
+
 Communications are RS-485 at 500000 bauds.
 
 The ESP32 port is used for debug also at 500000 bauds.
 
 It can handle CAT radios, you need to have [OMNIRIG v2.1](https://www.hb9ryz.ch/omnirig/) installed.
+
+
 
 If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) installed, the program can get the RMS value of the signal in continuous mode, and with this data we can get a heatmap or radiomap.
 
