@@ -20,7 +20,7 @@ If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) i
 <img src="https://github.com/ea3hmj/EME/raw/main/img/heatmap.jpg" width="640">
 
 ## Download
-Download the [latest release page.][latest_release]
+Download the app in [latest release page](latest_release)
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
