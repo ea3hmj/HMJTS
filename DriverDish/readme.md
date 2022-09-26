@@ -1,9 +1,9 @@
 # DRIVERDISH.APP
 This is the main program that is responsible for requesting data from the ephemeris server and communicating with ControllerDish.
 
-<img src="https://github.com/ea3hmj/EME/raw/main/img/dd1.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd10.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd2.jpg" width="640">
-<img src="https://github.com/ea3hmj/EME/raw/main/img/dd3.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/dd30.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd4.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd5.jpg" width="640">
 
