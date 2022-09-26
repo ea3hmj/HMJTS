@@ -11,7 +11,7 @@ A server based on JPL SPICE that serves us data from any object in the kernel sp
 
 ## JPLastroserver
 
-It is a reduced version that connects to Horizonts to obtain the data that it will later serve, there is a file "sondas.ini" where the data of the probes/astros that we want to request are introduced.
+It is a reduced version that connects to Horizonts to obtain the data that it will later serve, there is a file "sondas.txt" where the data of the probes/astros that we want to request are introduced.
 
 ## Astronomyserver
 An autonomous version based on the [Astronomy Engine library of Don Cross](https://github.com/cosinekitty/astronomy) that provides data of the planets of the solar system.
