@@ -1,4 +1,0 @@
-# Documents
-
-Project help documents
-
