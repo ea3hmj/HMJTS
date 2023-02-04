@@ -13,14 +13,17 @@ The ESP32 port is used for debug also at 500000 bauds.
 
 It can handle CAT radios, you need to have [OMNIRIG v2.1](https://www.hb9ryz.ch/omnirig/) installed.
 
-
-
 If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) installed, the program can get the RMS value of the signal in continuous mode, and with this data we can get a heatmap or radiomap.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/heatmap.jpg" width="640">
 
+## News
+Indication of movement per axis
+Empty error table created in the configuration dir
+Minor bugs
+
 ## Download
-Download the app in [latest release page](https://github.com/ea3hmj/HMJTS/releases/tag/DriverDish.app)
+Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
