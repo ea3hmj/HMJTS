@@ -9,6 +9,14 @@ For details, please read the document: [Encoder optico v2 ENG.pdf](docs/Encoder%
 ## External library 
 [ModbusSlave](https://github.com/yaacov/ArduinoModbusSlave)
 
+## Updates
+
+Download the firmware in [latest release page](https://github.com/ea3hmj/HMJTS/blob/main/controller%20dish/paralell%20to%20485/software/interface%20485.rar)
+
+Use ST-LINK2 to program the board.
+
+[Drivers for ST-LINK2 windows available here](https://github.com/ea3hmj/HMJTS/blob/main/controller%20dish/paralell%20to%20485/software/ST-LINK_USB_V2_1_Driver.rar)
+
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
 
