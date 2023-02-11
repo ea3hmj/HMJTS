@@ -22,7 +22,8 @@ Indication of movement per axis
 Empty error table created in the configuration dir
 Minor bugs
 ## Versions
-1.0.0	Initial version
+1.0.0	Initial version.
+
 1.0.817	Display the ControllerDish version in the setup form.
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
