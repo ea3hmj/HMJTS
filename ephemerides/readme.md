@@ -1,20 +1,19 @@
 # EPHEMERIDES
 An important part of the system is to obtain the most accurate positioning data possible.
 
-As a philosophy the data will be served by a TCP server on port 8888.
+As a principle, the data will be accessible through a TCP server on port 8888.
 
-For this we have 3 different servers depending on the need.
+For this purpose, we have three separate servers to meet different requirements.
 
 ## Astroserver
 
-A server based on JPL SPICE that serves us data from any object in the kernel space available.
+A JPL SPICE based server that provides data from any object in the kernel space available.
 
 ## JPLastroserver
 
-It is a reduced version that connects to Horizonts to obtain the data that it will later serve, there is a file "sondas.txt" where the data of the probes/astros that we want to request are introduced.
-
+A server that sources its data from the NASA JPL Horizons on-line solar system data and ephemeris computation service. Horizons provides access to key solar system data and highly accurate ephemerides for solar system objects including selected spacecraft. The file "sondas.txt" contains the list of objects whose ephemeris will be retrieved from the Horizons system.
 ## Astronomyserver
-An autonomous version based on the [Astronomy Engine library of Don Cross](https://github.com/cosinekitty/astronomy) that provides data of the planets of the solar system.
+An autonomous version based of Don Cross' [Astronomy Engine library](https://github.com/cosinekitty/astronomy) that provides Solar System planets data.
 
 ## Documentation
 
