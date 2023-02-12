@@ -1,9 +1,34 @@
 # REMOTE CONTROL
-Remote control for the controller, based on the LilyGo T-Display-S3 board.
+
+The DishController remote control unit is a standalone battery powered wireless device that allows users to control the basic motion functions of the DishController without requiring a computer. 
+It is a convenient device to operate the system outdoors (i.e., at the antenna location) while monitoring the antenna movement.
+The remote wirelessly connects to the DishController mainboard and is powered by a rechargeable lithium-ion polymer (LiPo) battery.
+
+WARNING!
+Using the remote while a computer is operating connected to the DishController can potentially interfere with the normal functioning of the system. Therefore, it's advisable to avoid using the remote control when your computer is in use to command the DishController.
+
 <img src="https://github.com/ea3hmj/EME/raw/main/img/mando.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/batery.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/batery2.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/batery3.jpg" width="640">
+
+## INSTRUCTIONS
+
+The remote has two main operating buttons on the upper and lower right of the front panel and a reset button on the side. 
+To perform an action with the remote, press the appropriate button.
+
+The lower right button performs the following functions:
+• Single click to move between the four motion axes: ELEVATION (EL) up and down and AZIMUTH (AZ) right and left
+• Double-click to switch from fast to slow speed motor movement
+• Long click (0.5 s) to turn off the controller
+
+The upper right button performs the following functions:
+• Press and hold moves the selected movement axis
+• Release stops movement
+• When the motors are stopped, pressing it turns them on
+
+## HARDWARE
+The remote control is based on the LILYGO T-Display-S3 development board whose main control chip is ESP32-S3. It is equipped with a 1.9-inch LCD color screen and two programmable buttons.
 
 ## Documentation
 ### T-Display-S3 
