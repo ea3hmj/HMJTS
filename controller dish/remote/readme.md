@@ -19,12 +19,18 @@ To perform an action with the remote, press the appropriate button.
 
 The lower right button performs the following functions:
 • Single click to move between the four motion axes: ELEVATION (EL) up and down and AZIMUTH (AZ) right and left
+
 • Double-click to switch from fast to slow speed motor movement
+
 • Long click (0.5 s) to turn off the controller
 
+
 The upper right button performs the following functions:
+
 • Press and hold moves the selected movement axis
+
 • Release stops movement
+
 • When the motors are stopped, pressing it turns them on
 
 ## HARDWARE
