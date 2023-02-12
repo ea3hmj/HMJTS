@@ -1,8 +1,9 @@
-# EA3HMJ Tracking System
+# EA3HMJ Antenna Tracking System
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/eme%20system.jpg" width="640">
 
 ## Under construction
+Please note that this is work-in-progress
 
 ## Description
 This is an antenna tracking system (software and hardware) designed for amateur use in Earth–Moon–Earth communication (EME), radioastronomy, amateur Deep Sky Network (DSN) and other Space Communication applications where accurate and high precision tracking are required. 
