@@ -8,6 +8,7 @@ The remote wirelessly connects to the DishController mainboard and is powered by
 Using the remote while a computer is operating connected to the DishController can potentially interfere with the normal functioning of the system. Therefore, it's advisable to avoid using the remote control when your computer is in use to command the DishController.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/mando.jpg" width="640">
+
 ## INSTRUCTIONS
 
 The remote has two main operating buttons on the upper and lower right of the front panel and a reset button on the side. 
