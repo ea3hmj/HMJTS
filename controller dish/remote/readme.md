@@ -8,10 +8,6 @@ The remote wirelessly connects to the DishController mainboard and is powered by
 Using the remote while a computer is operating connected to the DishController can potentially interfere with the normal functioning of the system. Therefore, it's advisable to avoid using the remote control when your computer is in use to command the DishController.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/mando.jpg" width="640">
-<img src="https://github.com/ea3hmj/EME/raw/main/img/batery.jpg" width="640">
-<img src="https://github.com/ea3hmj/EME/raw/main/img/batery2.jpg" width="640">
-<img src="https://github.com/ea3hmj/EME/raw/main/img/batery3.jpg" width="640">
-
 ## INSTRUCTIONS
 
 The remote has two main operating buttons on the upper and lower right of the front panel and a reset button on the side. 
@@ -36,6 +32,14 @@ The upper right button performs the following functions:
 
 ## HARDWARE
 The remote control is based on the LILYGO T-Display-S3 development board whose main control chip is ESP32-S3. It is equipped with a 1.9-inch LCD color screen and two programmable buttons.
+
+<img src="https://github.com/ea3hmj/EME/raw/main/img/batery.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/batery2.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/batery3.jpg" width="640">
+
+
+
+
 
 ## Documentation
 ### T-Display-S3 
