@@ -12,7 +12,7 @@ Proper use of the system requires electronics knowledge and some software skills
 
 The hardware components of this system are specifically selected to support the software applications that run on it. These components include a DishController unit -including a ESP32 microcontroller unit (MCU), DC motor driver board with high-performance and high-current driver devices, RS485 input/output devices and DC voltage step-up converter-, other peripherals like a variety of absolute digital encoders and inclinometers to sense the motion and position of the motorized slewing drive system and a remote-control unit.
 
-In order to support single-turn and multiturn absolute encoders with parallel output interface there is also an optional Parallel to RS485 MODBUS converter board. Obviously, the latter is not needed if the sensors output are Modbus RS485 compliant.
+In order to support single-turn and multiturn absolute encoders with parallel output interface there is also an optional Parallel to RS485 MODBUS converter board. Obviously, the latter is not needed if the sensors outputs are Modbus RS485 compliant.
 
 The software components of this system are also specifically designed to work with the hardware components. This software includes the microcontroller and remote-control firmware, communications protocol, device drivers, and application software. 
 
