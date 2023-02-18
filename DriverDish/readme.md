@@ -1,4 +1,6 @@
 # DRIVERDISH.APP
+[Version and download](#Versions)
+
 This is the main program that is responsible for requesting data from the ephemeris server and communicating with ControllerDish.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd10.jpg" width="640">
@@ -17,14 +19,14 @@ If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) i
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/heatmap.jpg" width="640">
 
-## News
-Indication of movement per axis
-Empty error table created in the configuration dir
-Minor bugs
+<a name="Versions"></a>
 ## Versions
 1.0.0	Initial version.
 
 1.0.817	Display the ControllerDish version in the setup form.
+
+1.0.825	stop tracking whith el<0.
+
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
 
