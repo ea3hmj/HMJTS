@@ -27,6 +27,8 @@ If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) i
 
 1.0.825	stop tracking whith el<0.
 
+1.0.827 buton stop now stop tracking & motors, Fonts update, Bug in window reposition
+
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
 
