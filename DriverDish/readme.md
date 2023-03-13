@@ -16,6 +16,7 @@ The ESP32 port is used for debug also at 500000 bauds.
 It can handle CAT radios, you need to have [OMNIRIG v2.1](https://www.hb9ryz.ch/omnirig/) installed.
 
 If you have [SpectraVue v3.41](http://www.rfspace.com/RFSPACE/SpectraVue.html) installed, the program can get the RMS value of the signal in continuous mode, and with this data we can get a heatmap or radiomap.
+The HeatMap software will be posted in another directory.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/heatmap.jpg" width="640">
 
