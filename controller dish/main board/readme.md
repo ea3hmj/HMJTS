@@ -6,7 +6,6 @@ The controller allows to manage two motors with their corresponding position sen
 <img src="https://github.com/ea3hmj/EME/raw/main/img/controllerdishengine.jpg" width="640">
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/controller.jpg" width="640">
-![Dish Controler V4](https://user-images.githubusercontent.com/115653113/233903829-0c27aacc-65a8-4bcf-bd72-2f12e37e94ad.png)
 
 
 ## Documentation
