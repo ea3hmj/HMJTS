@@ -9,7 +9,7 @@ The controller allows to manage two motors with their corresponding position sen
 
 
 ## Documentation
-For details, please read the document: [Dish Controller v2 ENG.pdf](docs/Dish%20Controller%20v2%20ENG.pdf)
+For details, please read the document: [Dish Controller v4 ENG.pdf](docs/Dish%20Controller%20v4%20ENG.pdf)
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
