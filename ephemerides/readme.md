@@ -16,7 +16,7 @@ A server that sources its data from the NASA JPL Horizons on-line solar system d
 An autonomous version based on Don Cross' [Astronomy Engine library](https://github.com/cosinekitty/astronomy) that provides Solar System planets data.
 
 ## AstroserverHelper.App
-coming soon
+This App enables you to create a list of coordinates were an object can be found at a specific time.
 
 ## Documentation
 
