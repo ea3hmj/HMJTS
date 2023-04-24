@@ -24,7 +24,7 @@ The integration of dedicated hardware and software in such a system provides sev
 
 The system is made up of three blocks that work together:
 - Ephemeris servers (Astroserver, JPLastroserver and Astronomyserver)
-- Control application in Windows OS (DriverDish.App)
+- Control application in Windows OS ([DriverDish.App](https://github.com/ea3hmj/HMJTS/tree/main/DriverDish))
 - Antenna Controller (Controller Dish)
 
 Utilities are also added:
