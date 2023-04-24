@@ -22,6 +22,15 @@ The application software includes the DriverDish program, which is responsible f
 
 The integration of dedicated hardware and software in such a system provides several benefits. First, it improves system performance and reliability by allowing the DishController unit to directly access and control the specialized hardware components like the motor drivers and position sensors. This reduces overhead and improve response times. Second, it simplifies system design and development by providing a standardized set of hardware and software components that are optimized for narrow beamwidth antenna tracking. Third, in contrast to other antenna tracking system designs, the movement and position sensors are located at the last link of the movement chain to actively monitor the antenna's pointing direction. By doing so, the system is able to minimize the impact of mechanical tolerances and gear backslash.
 
+The system is made up of three blocks that work together:
+- Ephemeris servers (Astroserver, JPLastroserver and Astronomyserver)
+- Control application in Windows OS (DriverDish.App)
+- Antenna Controller (Controller Dish)
+
+Utilities are also added:
+- AstroserverHelper.App
+- Heatmap.App
+
 ## Disclaimer
 This software -including the source and the whole package- and hardware are distributed "as is" without any representation or warranty of any kind, either express or implied. 
 
