@@ -32,6 +32,8 @@ The HeatMap software will be posted in another directory.
 
 1.0.859 read ambient temp from encoder elevation
 
+1.1.954 current sense motors, supor external mini weather station
+
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
 
