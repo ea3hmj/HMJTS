@@ -1,12 +1,12 @@
 This server enables the possibility to chose from two sources of Data: SigDigger or SpectraVue.
 
+<img src="https://github.com/ea3hmj/EME/raw/main/img/SD1.jpg" width="640">
+
 <img src="https://github.com/ea3hmj/EME/raw/main/img/SV.jpg" width="640">
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/SVySNS.jpg" width="640">
 
 With SigDigger running, open the "Channel Inspection" menu:
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/SD1.jpg" width="640">
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/SD2.jpg" width="640">
 
