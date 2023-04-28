@@ -15,6 +15,6 @@ In the "Data Logger" menu, you must configure the TCP data taken from SN Server:
 <img src="https://github.com/ea3hmj/EME/raw/main/img/SD3.jpg" width="640">
 
 When all configurations are settle, open first SpectaVue and SigDigger.
-After open DriverDish and press start.
+After that, run DriverDish and press start on the serve, chosing from SigDigger or SpectraVue.
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/DDtotal.jpg" width="640">
