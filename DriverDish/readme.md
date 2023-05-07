@@ -8,6 +8,7 @@ This is the main program that is responsible for requesting data from the epheme
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd30.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd4.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd5.jpg" width="640">
+<img src="https://github.com/ea3hmj/HMJTS/blob/main/img/wx.png" width="640">
 
 Communications are RS-485 at 500000 bauds.
 
