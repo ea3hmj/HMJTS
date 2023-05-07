@@ -34,6 +34,8 @@ The HeatMap software will be posted in another directory.
 
 1.1.954 current sense motors, suport external mini weather station
 
+1.1.960 offset for mini eather station
+
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
 
