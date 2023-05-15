@@ -1,4 +1,5 @@
 # EPHEMERIDES
+
 An integral part of the system is to obtain the most accurate positioning data that is feasible and obtainable from trustworthy sources.
 
 As a principle, the data will be accessible through a TCP server on port 8888.
@@ -16,11 +17,13 @@ A server that sources its data from the NASA JPL Horizons on-line solar system d
 An autonomous version based on Don Cross' [Astronomy Engine library](https://github.com/cosinekitty/astronomy) that provides Solar System planets data.
 
 ## AstroserverHelper.App
+
 This App enables you to create a list of coordinates were an object can be found at a specific time.
 
 ## Documentation
 
 ## Disclaimer
+
 This is an antenna tracking system (software and hardware) designed for amateur use in Earth–Moon–Earth communication (EME), radioastronomy, amateur Deep Sky Network (DSN) and other Space Communication applications where accurate and high precision tracking are required. 
 Proper use of the system requires electronics knowledge and some software skills. Thus, it is only recommended to users with previous experience with antenna tracking systems.
 
