@@ -29,7 +29,7 @@ Sometimes the spacecraft is locked to some Groundstation from Deep Space Network
 <img src="https://github.com/ea3hmj/EME/raw/main/img/DSN1.jpg" width="640">
 It`s now possible to compensate also this difference in Doppler by selecting the Ground Station. The software will perform all the calculations needed and send the results to SigDigger.
 
-<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL3.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL3.JPG" width="640">
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/JPL4.jpg" width="640">
 
