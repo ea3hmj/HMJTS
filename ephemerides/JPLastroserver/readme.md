@@ -32,9 +32,7 @@ It`s now possible to compensate also this difference in Doppler by selecting the
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/JPL3.JPG" width="640">
 
-<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL2.jpg" width="640">
-
-<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL4.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL5.jpg" width="640">
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
