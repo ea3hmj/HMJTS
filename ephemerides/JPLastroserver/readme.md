@@ -38,6 +38,7 @@ It`s now possible to compensate also this difference in Doppler by selecting the
 Through the system menu you can change the server.
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl14.png" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl15.png" width="640">
+
 You can choose the satellite from the list of active satellites or by editing the satelites.txt file.
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl16.png" width="640">
 
