@@ -18,7 +18,7 @@ In the combobox list all the objects included in the file sondas.txt will appear
 It`s now possible to send commands to SigDigger software to control the Doppler Rate in the Doppler Tool menu.
 Both machines IP must be known, JPL Server must be configured with the IP and port from SigDigger machine:
 
-<img src="https://github.com/ea3hmj/EME/raw/main/img/JPL1.jpg" width="640">
+<img src="https://github.com/ea3hmj/EME/raw/main/img/jpl11.jpg" width="640">
 
 SigDigger must have enabled the remote operation, with its own IP and port:
 
