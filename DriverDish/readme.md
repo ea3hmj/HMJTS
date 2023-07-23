@@ -41,7 +41,7 @@ The HeatMap software will be posted in another directory.
 
 1.1.1008 Stop tracking when astroserver down.
 
-1.1.1024 Update ASCOM interface
+1.1.1026 Update ASCOM interface, Radio TAB add IF 7400MHz
 
 
 ## Download
