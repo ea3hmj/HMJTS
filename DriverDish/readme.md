@@ -41,6 +41,8 @@ The HeatMap software will be posted in another directory.
 
 1.1.1008 Stop tracking when astroserver down.
 
+1.1.1024 Update ASCOM interface
+
 
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
