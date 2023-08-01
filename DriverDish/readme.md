@@ -9,6 +9,7 @@ This is the main program that is responsible for requesting data from the epheme
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd4.jpg" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/dd5.jpg" width="640">
 <img src="https://github.com/ea3hmj/HMJTS/blob/main/img/wx.png" width="640">
+![image](https://github.com/ea3hmj/HMJTS/assets/2368602/023db93c-6330-43fc-a475-cc25fea36a1c)
 
 Communications are RS-485 at 500000 bauds.
 
@@ -43,6 +44,7 @@ The HeatMap software will be posted in another directory.
 
 1.1.1026 Update ASCOM interface, Radio TAB add IF 7400MHz
 
+1.1.1042 Auto position as a function of SN received
 
 ## Download
 Download the app in [latest release page](https://ea3hmj.net/download/DriverDish.Setup.rar)
