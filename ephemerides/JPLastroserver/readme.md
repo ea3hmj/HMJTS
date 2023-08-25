@@ -34,13 +34,28 @@ It`s now possible to compensate also this difference in Doppler by selecting the
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/JPL5.jpg" width="640">
 
+When press button Spacecraft, list all small bodys found in JPL system.
+ 
+<img src="https://github.com/ea3hmj/HMJTS/assets/2368602/b7a3785a-5ad3-44a5-bde0-047ddb91cad9" width="640">
+
+
+Added search functionality.
+
+<img src="https://github.com/ea3hmj/HMJTS/assets/2368602/44f181e6-e0aa-4c0f-b781-2f7b7ee3f986" width="640">
+
+
 ## New server for satellites
 Through the system menu you can change the server.
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl14.png" width="640">
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl15.png" width="640">
 
 You can choose the satellite from the list of active satellites or by editing the satelites.txt file.
+
 <img src="https://github.com/ea3hmj/EME/raw/main/img/jpl16.png" width="640">
+
+Added search functionality when press button Satellite.
+
+<img src="https://github.com/ea3hmj/HMJTS/assets/2368602/0969651b-117e-477b-91e4-166f8226f828" width="640">
 
 ## Disclaimer
 This is a tracking systems designed for amateur use in Moonbounce, Radioastronomy and DSN. It requieres advanced skills of electronics and software, only recommended to users with previous experience with tracking systems.
