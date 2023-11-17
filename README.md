@@ -1,3 +1,5 @@
+IMPORTANT, this repository is obsolete and has been replaced by the https://github.com/EA3HMJ-Tracking-Software-Suit
+
 # EA3HMJ Antenna Tracking System
 
 <img src="https://github.com/ea3hmj/EME/raw/main/img/eme%20system.jpg" width="640">
